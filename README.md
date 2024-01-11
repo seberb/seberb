@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seberb
 - 👀 I’m interested in scripting & coding  - for the folks 
-- 🌱 I’m currently learning about python scripting & docker and all that
+- 🌱 I’m currently learning about python scripting & docker and all that stuff
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
